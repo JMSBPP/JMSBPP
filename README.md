@@ -15,7 +15,7 @@
 
 EVM-based economic systems engineering, mainly DEX AMM protocol designs and implementations.
 - See main project references:
-   - <h3>Kappa</h3>:
+   - <h3>Kappa</h3>
      - **Description:**
        - Capital efficiency hook for PLP retail market-making
    - <h3>Xi</h3>
