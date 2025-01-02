@@ -18,7 +18,7 @@ EVM-based economic systems engineering, specifically DEX AMM protocol designs an
    - Kappa: Capital efficiency hook for PLP retail market-making
    - Xi: Capital efficiency hook for JIT retail market making
    - HAYEKCOP: COP pegged inflation-resistant token
-- 🌱 I’m currently learning ...
+<h3>🌱 I’m currently learning ...</h3>
   - Virtual Machines
     - Why?
   - Object-Oriented Desing
@@ -35,14 +35,14 @@ EVM-based economic systems engineering, specifically DEX AMM protocol designs an
       - Why?
    - See proof of learning exercises:
       -    
-- 👯 I’m looking to collaborate on ...
+<h3>👯 I’m looking to collaborate on ...</h3>
 Projects related to EVM-based economic system, which include:
   - DEX's hooks, and protocols aiming for economic and capital efficiency.
   - Liquid Staking protocols
-- 🤔 I’m looking for help with ...
+<h3>🤔 I’m looking for help with ...</h3>
   - Open Source projects to contribute
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<h3>💬 Ask me about ...</h3>
+<h3>📫 How to reach me: ...</h3>
   - Socials
 
 <!--
