@@ -2,11 +2,10 @@
 - 🔭 I’m currently working on ...
 
 EVM-based economic systems, specifically DEX AMM protocol designs and implementations.
-- Here are my main projects
-   -
-   -
-
-
+- See main project references:
+   - Kappa: Capital efficiency hook for PLP retail market-making
+   - Xi: Capital efficiency hook for JIT retail market making
+   - HAYEKCOP: COP pegged inflation-resistant token
 - 🌱 I’m currently learning ...
   - Virtual Machines
     - Why?
@@ -21,6 +20,9 @@ EVM-based economic systems, specifically DEX AMM protocol designs and implementa
   - Optimization
     -Why?
   -Measure Theory and Stochastic Calculus
+      - Why?
+   - See proof of learning exercises:
+      -    
 - 👯 I’m looking to collaborate on ...
 Projects related to EVM-based economic system, which include:
   - DEX's hooks, and protocols aiming for economic and capital efficiency.
