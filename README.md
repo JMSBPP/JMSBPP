@@ -15,7 +15,7 @@
 
 EVM-based economic systems engineering, mainly DEX AMM protocol designs and implementations.
 - See main project references:
-   - <h3> <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent"> Kappa </h3>
+   - <h3> <img src="https://img.shields.io/badge/:badgeContent"> Kappa </h3>
      - **Description:**
        - Capital efficiency hook for PLP retail market-making
    - <h3>Xi</h3>
