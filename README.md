@@ -16,9 +16,14 @@
 EVM-based economic systems engineering, mainly DEX AMM protocol designs and implementations.
 - See main project references:
    - <h3>Kappa</h3>:
-   - Capital efficiency hook for PLP retail market-making
-   - Xi: Capital efficiency hook for JIT retail market making
-   - HAYEKCOP: COP pegged inflation-resistant token
+     - **Description:**
+       - Capital efficiency hook for PLP retail market-making
+   - <h3>Xi<\h3>:
+     - **Description:**
+       - Capital efficiency hook for JIT retail market making
+   - HAYEKCOP:
+     - **Description:**
+       - COP pegged inflation-resistant token
 - <h3>🌱 I’m currently learning ...</h3>
   - Virtual Machines, Object-Oriented Desing, EVM Opcodes and formal specification and design, Reactive System Design and Specifications, Econometrics, computable general equilibrium, linear and dynamic optimization, Measure Theory and Stochastic Calculus
       -    
