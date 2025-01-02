@@ -11,7 +11,7 @@
    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on ...
+- <h3>🔭 I’m currently working on ...</h3>
 
 EVM-based economic systems engineering, specifically DEX AMM protocol designs and implementations.
 - See main project references:
