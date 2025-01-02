@@ -18,10 +18,10 @@ EVM-based economic systems engineering, mainly DEX AMM protocol designs and impl
    - <h3>Kappa</h3>:
      - **Description:**
        - Capital efficiency hook for PLP retail market-making
-   - <h3>Xi</h3>:
+   - <h3>Xi</h3>
      - **Description:**
        - Capital efficiency hook for JIT retail market making
-   - HAYEKCOP:
+   - <h3>HAYEKCOP</h3>
      - **Description:**
        - COP pegged inflation-resistant token
 - <h3>🌱 I’m currently learning ...</h3>
