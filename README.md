@@ -1,7 +1,7 @@
 ## Hi there, I'm Juan MIguel Serrano 👋
 - 🔭 I’m currently working on ...
 
-EVM-based economic systems, specifically DEX AMM protocol designs and implementations.
+EVM-based economic systems engineering, specifically DEX AMM protocol designs and implementations.
 - See main project references:
    - Kappa: Capital efficiency hook for PLP retail market-making
    - Xi: Capital efficiency hook for JIT retail market making
