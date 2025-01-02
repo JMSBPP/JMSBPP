@@ -26,6 +26,7 @@ EVM-based economic systems engineering, mainly DEX AMM protocol designs and impl
        - COP pegged inflation-resistant token
 - <h3>🌱 I’m currently learning ...</h3>
   - Virtual Machines, Object-Oriented Desing, EVM Opcodes and formal specification and design, Reactive System Design and Specifications, Econometrics, computable general equilibrium, linear and dynamic optimization, Measure Theory, and Stochastic Calculus.
+  <h3>Proof Of Learning</h3>
 - <h3>👯 I’m looking to collaborate on ...</h3>
 Projects related to EVM-based economic system, which include:
   - DEX's hooks, and protocols aiming for economic and capital efficiency.
