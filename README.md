@@ -1,7 +1,4 @@
 ## Hi there, I'm Juan MIguel Serrano 👋
-
-<!--
-**JMSBPP/JMSBPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 
 EVM-based economic systems, specifically DEX AMM protocol designs and implementations.
@@ -33,4 +30,7 @@ Projects related to EVM-based economic system, which include:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
   - Socials
+<!--
+**JMSBPP/JMSBPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
