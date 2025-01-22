@@ -31,9 +31,6 @@ EVM-based economic systems engineering, mainly DEX AMM protocol designs and impl
 Projects related to EVM-based economic system, which include:
   - DEX's hooks, and protocols aiming for economic and capital efficiency.
   - Liquid Staking protocols
-- <h3>🤔 I’m looking for help with ...</h3>
-  - Open Source projects to contribute
-- <h3>💬 Ask me about ...</h3>
 - <h3>📫 How to reach me: ...</h3>
   - Socials
 
