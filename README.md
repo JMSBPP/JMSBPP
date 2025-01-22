@@ -8,7 +8,6 @@
   <img alt="Huff" src="https://img.shields.io/badge/-Huff-000000?style=flat-square&logo=ethereum&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Oracle SQL" src="https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
 - <h3>🔭 I’m currently working on ...</h3>
@@ -22,7 +21,7 @@ Projects related to EVM-based economic system, which include:
   - Liquid Staking protocols
 <h3>📫 How to Reach Me</h3>
 <ul>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-miguel-serrano-barrera-56899b1a5/" target="_blank">Your LinkedIn Profile</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-miguel-serrano-barrera-56899b1a5/" target="_blank">LinkedIn Profile</a></li>
   <li><strong>Email:</strong> <a href="mailto:jmsbpp@hotmail.es">your.email@example.com</a></li>
 </ul>
 <!--
