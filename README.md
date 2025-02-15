@@ -14,7 +14,7 @@
 
 EVM-based economic systems engineering, mainly DEX AMM protocol designs and implementations.
 - <h3>🌱 I’m currently learning ...</h3>
-  - EVM Opcodes and formal specification, Reactive System Design and Specifications, Econometrics, Computable general equilibrium, linear and dynamic optimization for **practical** economic modeling
+  - EVM Opcodes and formal specification, Reactive System Design and Specifications, Econometrics, Computable general equilibrium, linear and dynamic optimization for practical economic systems modeling, design and on-chain implementation
 - <h3>👯 I’m looking to collaborate on ...</h3>
 Projects related to EVM-based economic system, which include:
   - DEX's hooks, and protocols aiming for economic and capital efficiency.
