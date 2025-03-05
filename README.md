@@ -7,7 +7,6 @@
   <img alt="Yul" src="https://img.shields.io/badge/-Yul-000000?style=flat-square&logo=ethereum&logoColor=white" />
   <img alt="Huff" src="https://img.shields.io/badge/-Huff-000000?style=flat-square&logo=ethereum&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Oracle SQL" src="https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
 
 - <h3>🔭 I’m currently working on ...</h3>
