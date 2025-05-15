@@ -8,7 +8,7 @@
 </p>
 
 
-EVM-based economic systems engineering, mainly DEX AMM protocol designs and implementations.
+EVM-based economic systems engineering, mainly DEX AMM protocol Hooks/Plugins designs and implementations.
 ```solidity
     function build(address IAMM) public {
         if (!IERC165(IAMM).supportsInterface(type(IAMM).interfaceId)) {
@@ -17,6 +17,10 @@ EVM-based economic systems engineering, mainly DEX AMM protocol designs and impl
 
 
 ```
+Building
+- Uniswap V4 Hooks
+- Algebra Integral Plugins/Hooks
+  
 <h3>📫 How to Reach Me</h3>
 <ul>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-miguel-serrano-barrera-56899b1a5/" target="_blank">LinkedIn Profile</a></li>
