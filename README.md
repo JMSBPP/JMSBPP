@@ -10,11 +10,10 @@
 
 EVM-based economic systems engineering, mainly DEX AMM protocol designs and implementations.
 ```solidity
-function build(IAMM) public{
-  if (IAMM.){
-    revert;
-  }
-}
+    function build(address IAMM) public {
+        if (!IERC165(IAMM).supportsInterface(type(IAMM).interfaceId)) {
+            revert;
+        }
 
 
 ```
