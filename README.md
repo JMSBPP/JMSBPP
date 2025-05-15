@@ -7,7 +7,6 @@
   <img alt="Huff" src="https://img.shields.io/badge/-Huff-000000?style=flat-square&logo=ethereum&logoColor=white" />
 </p>
 
-- <h3>🔭 I’m currently working on ...</h3>
 
 EVM-based economic systems engineering, mainly DEX AMM protocol designs and implementations.
 ```solidity
