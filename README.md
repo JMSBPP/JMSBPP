@@ -10,12 +10,15 @@
 - <h3>🔭 I’m currently working on ...</h3>
 
 EVM-based economic systems engineering, mainly DEX AMM protocol designs and implementations.
-- <h3>🌱 I’m currently learning ...</h3>
-  - EVM opcodes and formal specification, reactive system design and specifications, econometrics, computable general equilibrium, linear and dynamic optimization for practical economic systems modeling, and mechanism design on-chain implementation.
-- <h3>👯 I’m looking to collaborate on ...</h3>
-Projects related to EVM-based economic system, which include:
-  - DEX's hooks, and protocols aiming for economic and capital efficiency.
-  - Liquid Staking protocols
+```solidity
+function build(IAMM) public{
+  if (IAMM.){
+    revert;
+  }
+}
+
+
+```
 <h3>📫 How to Reach Me</h3>
 <ul>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-miguel-serrano-barrera-56899b1a5/" target="_blank">LinkedIn Profile</a></li>
