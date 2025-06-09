@@ -18,9 +18,10 @@ EVM-based economic systems engineering, mainly DEX AMM protocol Hooks/Plugins de
 
 ```
 Building
-- Uniswap V4 Hooks
-- Algebra Integral Plugins/Hooks
-  
+- **Uniswap V4** Hooks
+- **BunniV2** Hooks
+- **Algebra Integral** Plugins/Hooks
+- **EulerSwap** Integrations  
 <h3>📫 How to Reach Me</h3>
 <ul>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-miguel-serrano-barrera-56899b1a5/" target="_blank">LinkedIn Profile</a></li>
