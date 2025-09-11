@@ -20,6 +20,7 @@ EVM-based economic systems engineering, mainly DEX AMM protocol Hooks/Plugins de
 ```
 Building
 - **Uniswap V4** Hooks
+- **BalancerV3** Hooks
 - **BunniV2** Hooks
 - **Algebra Integral** Plugins/Hooks
 - **EulerSwap** Integrations  
