@@ -11,7 +11,7 @@
 
 
 
-EVM-based economic systems engineering, mainly DEX AMM protocol Hooks/Plugins designs and implementations.
+EVM-based DEX AMM protocol Hooks/Plugins designs and implementations.
 ```solidity
     function build(IAMM) public {
         if (!IERC165(IAMM).supportsInterface(type(IAMM).interfaceId)) {
