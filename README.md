@@ -27,7 +27,7 @@ Building
 <h3>📫 How to Reach Me</h3>
 <ul>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-miguel-serrano-barrera-56899b1a5/" target="_blank">LinkedIn Profile</a></li>
-  <li><strong>Email:</strong> <a href="jmsbpp@hotmail.es">mailto:jmsbpp@hotmail.es</a></li>
+  <li><strong>Email:</strong> <a href="juan.serranotmf@gmail.com">mailto:juan.serranotmf@gmail.com</a></li>
 </ul>
 <!--
 **JMSBPP/JMSBPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
