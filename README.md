@@ -1,4 +1,4 @@
-## Hi there, I'm Juan Miguel 👋
+
 <h3>Toolkit</h3>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
