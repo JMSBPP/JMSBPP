@@ -7,13 +7,15 @@
   <img alt="Huff" src="https://img.shields.io/badge/-Huff-000000?style=flat-square&logo=ethereum&logoColor=white" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsbpp&hide=TeX&layout=compact" alt="Juan Miguel's Github Stats" align="right" height="auto"/>
 EVM-based DEX AMM protocol Hooks/Plugins designs and implementations.
+
 ```solidity
-    function build(IAMM) public {
-        if (!IERC165(IAMM).supportsInterface(type(IAMM).interfaceId)) {
-            revert;
-        }
+
+function build(IAMM) public {
+    if (!IERC165(IAMM).supportsInterface(type(IAMM).interfaceId)) {
+        revert;
+    }
+
 ```
 
 <!--
