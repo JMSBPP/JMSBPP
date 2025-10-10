@@ -8,9 +8,6 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsbpp&hide=TeX&layout=compact" alt="Juan Miguel's Github Stats" align="right" height="auto"/>
-
-
-
 EVM-based DEX AMM protocol Hooks/Plugins designs and implementations.
 ```solidity
     function build(IAMM) public {
@@ -18,17 +15,7 @@ EVM-based DEX AMM protocol Hooks/Plugins designs and implementations.
             revert;
         }
 ```
-Building
-- **Uniswap V4** Hooks
-- **BalancerV3** Hooks
-- **BunniV2** Hooks
-- **Algebra Integral** Plugins/Hooks
-- **EulerSwap** Integrations  
-<h3>📫 How to Reach Me</h3>
-<ul>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/juan-miguel-serrano-barrera-56899b1a5/" target="_blank">LinkedIn Profile</a></li>
-  <li><strong>Email:</strong> <a href="juan.serranotmf@gmail.com">mailto:juan.serranotmf@gmail.com</a></li>
-</ul>
+
 <!--
 **JMSBPP/JMSBPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
