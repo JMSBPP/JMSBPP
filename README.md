@@ -11,10 +11,11 @@ EVM-based DEX AMM protocol Hooks/Plugins designs and implementations.
 
 ```solidity
 
-function build(IAMM) public {
-    if (!IERC165(IAMM).supportsInterface(type(IAMM).interfaceId)) {
-        revert;
+function build(address amm) public {
+    if (!IERC165(amm).supportsInterface(type(IAMM).interfaceId)) {
+        revert(); 
     }
+}
 
 ```
 
