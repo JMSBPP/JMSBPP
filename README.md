@@ -7,7 +7,7 @@
   <img alt="Huff" src="https://img.shields.io/badge/-Huff-000000?style=flat-square&logo=ethereum&logoColor=white" />
 </p>
 
-EVM-based DEX AMM protocol Hooks/Plugins designs and implementations.
+EVM-based DEX AMM protocol Hooks/Plugins applications.
 
 ```solidity
 
