@@ -2,6 +2,7 @@
 <h3>Toolkit</h3>
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" />
 </p>
 
 EVM-based DEX AMM protocol Hooks/Plugins applications.
