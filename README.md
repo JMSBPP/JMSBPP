@@ -4,7 +4,7 @@
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" />
   <img alt="GAMS" src="https://img.shields.io/badge/-GAMS-005DAA?style=flat-square&logo=gams&logoColor=white" />
-  <img alt="Huff" src="https://img.shields.io/badge/-Yul-0A0A0A?style=flat-square&logoColor=white" />
+  <img alt="Huff" src="https://img.shields.io/badge/-Huff-0A0A0A?style=flat-square&logoColor=white" />
 </p>
 
 
