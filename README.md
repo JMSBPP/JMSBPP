@@ -5,11 +5,6 @@
   <img alt="Huff" src="https://img.shields.io/badge/-Huff-0A0A0A?style=flat-square&logoColor=white" />
 </p>
 
-
-
-EVM-based CFMM Protocol Eng
-
-
 ```solidity
 
 function build(address amm) public {
