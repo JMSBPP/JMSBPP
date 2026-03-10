@@ -7,7 +7,8 @@
 
 
 
-EVM-based DEX AMM protocol Hooks/Plugins applications.
+EVM-based CFMM Protocol Eng
+
 
 ```solidity
 
