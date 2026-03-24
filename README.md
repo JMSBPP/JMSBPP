@@ -4,7 +4,7 @@
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Huff" src="https://img.shields.io/badge/-Huff-0A0A0A?style=flat-square&logoColor=white" />
   <img alt="Lean4" src="https://img.shields.io/badge/-Lean4-4B0082?style=flat-square&logoColor=white" />
-  <img alt="edge-rs" src="https://img.shields.io/badge/-edge-rs-1C1C1C?style=flat-square&logoColor=white" />
+  <img alt="edge-rs" src="https://img.shields.io/badge/-edge--rs-F57C00?style=flat-square&logoColor=white" />
 </p>
 
 ```solidity
