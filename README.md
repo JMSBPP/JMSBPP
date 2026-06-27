@@ -4,6 +4,7 @@
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Huff" src="https://img.shields.io/badge/-Huff-0A0A0A?style=flat-square&logoColor=white" />
   <img alt="PlankEVM" src="https://img.shields.io/badge/-PlankEVM-4B0082?style=flat-square&logoColor=white" />
+  <img alt="GAMS" src="https://img.shields.io/badge/-GAMS-4B0082?style=flat-square&logoColor=white" />
 </p>
 
 ```solidity
