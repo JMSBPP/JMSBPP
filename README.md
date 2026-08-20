@@ -10,8 +10,8 @@
 
 ```solidity
 
-function build(address amm) public {
-    if (!IERC165(amm).supportsInterface(type(IAMM).interfaceId)) {
+function build(address clmm) public {
+    if (!IERC165(clmm).supportsInterface(type(ICLMM).interfaceId)) {
         revert(); 
     }
 }
